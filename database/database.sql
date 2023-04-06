@@ -1,3 +1,4 @@
+-- test comment for lab 6.
 --
 -- PostgreSQL database dump
 --
